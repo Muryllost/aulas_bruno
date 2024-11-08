@@ -1,0 +1,20 @@
+back-end 
+|
+|--->  arquitetura
+
+
+   cliente(C)
+       x
+    server(S)
+
+
+
+
+             req
+   C       requisição      S
+maquina ---------------> google
+        <---------------
+            resposta
+              res
+
+
